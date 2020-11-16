@@ -1,0 +1,45 @@
+{
+  "experience": [
+    {
+      "id": "1",
+      "companyName": "Nymgo",
+      "from": "1990",
+      "to": "2000",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "companyName": "aplitv",
+      "from": "1990",
+      "to": "2000",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "3",
+      "companyName": "codi",
+      "from": "1990",
+      "to": "2000",
+      "description": "lorem ipsum"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "projectName": "todo",
+      "link": "www.google.com",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "projectName": "weather",
+      "link": "www.google.com",
+      "description": "lorem ipsum"
+    },
+    {
+      "id": "3",
+      "projectName": "calc",
+      "link": "www.google.com",
+      "description": "lorem ipsum"
+    }
+  ]
+}
